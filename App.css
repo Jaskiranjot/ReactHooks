@@ -1,0 +1,25 @@
+.box {
+   
+   
+   margin-top: 170px;
+   margin-left: 400px;
+   margin-right: 400px;
+    padding-top : 20px;
+    border-color: black;
+    background-color: aqua;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+}
+
+
+#button {
+    color: blue;   
+    margin: auto;
+   
+}
+
+
